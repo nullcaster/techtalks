@@ -8,8 +8,10 @@ kubectl get node
 
 2. Tooling
 
-- kubectl (must have anyway): 
+- kubectl (must have anyway):
+
 -- Linux: https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/
+
 -- MacOS: https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
 - multipal UI tools (VsCode plugins, Lens etc)
 
